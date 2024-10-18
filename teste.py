@@ -1,4 +1,5 @@
 print("Teste de commit")
+print("Teste de commit 2")
 
 """
 Passo a passo de commit:
